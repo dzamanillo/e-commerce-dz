@@ -1,0 +1,18 @@
+{
+	"sqltools.connections": [
+		{
+			"mysqlOptions": {
+				"authProtocol": "default"
+			},
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 3306,
+			"askForPassword": true,
+			"driver": "MySQL",
+			"name": "MySql",
+			"database": "ecommerce_db",
+			"username": "root"
+		}
+	],
+	"cSpell.words": ["ecommerce"]
+}
