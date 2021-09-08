@@ -1,21 +1,41 @@
-# User Story
+# E-Commerce_DZ
 
-- AS A manager at an internet retail company
-- I WANT a back end for my e-commerce website that uses the latest technologies
-- SO THAT my company can compete with other e-commerce companies
+![license](https://img.shields.io/badge/license-None-blue)
+
+## Description
+
+A fully functioning e commerce back end with products, categories and tags.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Questions](#questions)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+[Video](https://drive.google.com/file/d/1MOZH1_3OqbcrN-ibZvIaC3evlMYErQcf/view)
+
+E-Commerce uses the following NPM packages:
+
+- Express
+- MySQL2
+- dotenv
+- Sequelize
 
 <br>
 
-# Acceptance Criteria
+## Questions
 
-- GIVEN a functional Express.js API
-- WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
-- THEN I am able to connect to a database using Sequelize
-- WHEN I enter schema and seed commands
-- THEN a development database is created and is seeded with test data
-- WHEN I enter the command to invoke the application
-- THEN my server is started and the Sequelize models are synced to the MySQL database
-- WHEN I open API GET routes in Insomnia Core for categories, products, or tags
-- THEN the data for each of these routes is displayed in a formatted JSON
-- WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
-- THEN I am able to successfully create, update, and delete data in my database
+Please feel free to reach out to me on my [GitHub](https://github.com/dzamanillo).
+
+You can also email me at dzamanillok@gmail.com
+
+## Credits
+
+Daniel Zamanillo
+
+## License
+
+None
