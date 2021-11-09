@@ -15,7 +15,7 @@ A fully functioning e commerce back end with products, categories and tags.
 
 ## Installation
 
-[Video](https://drive.google.com/file/d/1MOZH1_3OqbcrN-ibZvIaC3evlMYErQcf/view)
+[Video](https://watch.screencastify.com/v/rjLFfWHpcjozhn15u9qh)
 
 E-Commerce uses the following NPM packages:
 
